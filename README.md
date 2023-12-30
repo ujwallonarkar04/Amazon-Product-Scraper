@@ -9,7 +9,7 @@ Run the main script (amazon_product_scraper.py) after configuring the base URL a
 The script outputs a CSV file (amazon_products.csv) containing the scraped data, including product URL, name, price, rating, and number of reviews.
 Additionally, it provides a function to extract further details (description, ASIN, product description, manufacturer) from individual product pages.
 
-#Usage
+# Usage
 
 Ensure Python is installed on your system.
 Install the necessary libraries using pip install -r requirements.txt.
